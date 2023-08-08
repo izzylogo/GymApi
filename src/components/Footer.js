@@ -9,7 +9,7 @@ const Footer = () => {
       <Stack gap='40px' alignItems='center' px='40px' pt='24px'>
         <img src={Logo} width='200px' height='40px'/>
         <Typography variant='h5' pb='40px'>
-          Made by Izzy with JavaScript Mastery
+          Made by Dami with JavaScript Mastery
         </Typography>
       </Stack>
     </Box>
